@@ -10,7 +10,7 @@
 (see the pdf readme file for more details)
 5-testing if ROS works by typing ( rosecore)
 
-**installing ROS2 on jeston nano
+**installing ROS2 roxy on jeston nano
 
 1-installing the Jetson Nano 20.04 Image: xUbuntu 20.04 on ubuntu from https://forums.developer.nvidia.com/t/xubuntu-20-04-focal-fossa-l4t-r32-3-1-custom-image-for-the-jetson-nano/121768 (to avoid containerztion or using Docker)
 2-then Extrat the tar file using this command: tar -xvjf Xubuntu-20.04-l4t-r32.3.1.tar.tbz2
