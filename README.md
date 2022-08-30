@@ -7,8 +7,8 @@
 2-download ubuntu20.04
 3-setting up ubuntu configurantios and settings
 4-downloading ROS neotic on ubuntu by using the commands from: http://wiki.ros.org/noetic/Installation/Ubuntu
-(see the pdf readme file for more details)
 5-testing if ROS works by typing ( rosecore)
+(see the pdf readme file for more details)
 
 **installing ROS2 roxy on jeston nano
 
@@ -19,3 +19,4 @@
 5-plugging the USB to the jeston nano piece 
 6-insttling xubuntu and setting up its configurantios just like regular ubuntu 
 7-installing ROS2 roxy by following the commands on  the offical website: https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html
+(see the pdf readme file for more details)
