@@ -17,6 +17,6 @@
 3- install Balena from: https://www.balena.io/etcher/ to flash the jeston nano image
 4-flshing the image to the USB using balena
 5-plugging the USB to the jeston nano piece 
-6-insttling xubuntu and setting up its configurantios just like regular ubuntu 
+6-instlling xubuntu and setting up its configurantios just like regular ubuntu 
 7-installing ROS2 roxy by following the commands on  the offical website: https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html
 (see the pdf readme file for more details)
