@@ -19,4 +19,4 @@
 5-plugging the USB to the jeston nano piece 
 6-instlling xubuntu and setting up its configurantios just like regular ubuntu 
 7-installing ROS2 foxy by following the commands on  the offical website: https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html
-(see the pdf readme file for more details)
+(see the pdf readme file: https://github.com/NoufTwakkul/AI-installing-ROS/blob/f3806317643d7b8965373e3d5b55e8854df2c24d/installing%20ROS.pdf for more details)
